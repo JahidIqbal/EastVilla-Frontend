@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Trelio Villa",
+        "image": "https://wallpaperaccess.com/full/1126760.jpg",
+        "description": "East Villa agents are Property consisting of land and the buildings on it, along with its seds naturals resources such seds as crops, minerals, or water tincidunt ipsum posuere.sollicitudin. Duis iaculis, arcu ut hendrerit pharetra, elit augue pulvinar magna..",
+        "price": "1 Million",
+        "Beds": 3,
+        "Baths": 1,
+        "sqft": 350
+    },
+    {
+        "id": 2,
+        "name": "Galaxy Villa",
+        "image": "https://imageio.forbes.com/blogs-images/keithflamer/files/2019/09/image1-1200x800.jpg?fit=bounds&format=jpg&width=960",
+        "description": "East Villa agents are Property consisting of land and the buildings on it, along with its seds naturals resources such seds as crops, minerals, or water tincidunt ipsum posuere.sollicitudin. Duis iaculis, arcu ut hendrerit pharetra, elit augue pulvinar magna..",
+        "price": "2 Million",
+        "Beds": 4,
+        "Baths": 4,
+        "sqft": 450
+    },
+    {
+        "id": 3,
+        "name": "Eastern Villa",
+        "image": "https://assets.blog.hgtv.ca/wp-content/uploads/2019/06/26153254/celeb-pools-bruce-willis.jpg?width=435",
+        "description": "East Villa agents are Property consisting of land and the buildings on it, along with its seds naturals resources such seds as crops, minerals, or water tincidunt ipsum posuere.sollicitudin. Duis iaculis, arcu ut hendrerit pharetra, elit augue pulvinar magna..",
+        "price": "3 Million",
+        "Beds": 3,
+        "Baths": 2,
+        "sqft": 350
+    },
+    {
+        "id": 4,
+        "name": "Western Villa",
+        "image": "https://thumbor.granitemedia.com/wallace-neff-house/ekhVwIa0-reevZNuLu_Rqonf3iI=/799x0/filters:quality(80)/granite-web-prod/2a/76/2a763836b02d426197466e2d396d5ba8.jpeg",
+        "description": "East Villa agents are Property consisting of land and the buildings on it, along with its seds naturals resources such seds as crops, minerals, or water tincidunt ipsum posuere.sollicitudin. Duis iaculis, arcu ut hendrerit pharetra, elit augue pulvinar magna..",
+        "price": "4 Million",
+        "Beds": 5,
+        "Baths": 3,
+        "sqft": 550
+    },
+    {
+        "id": 5,
+        "name": "Astonishing Villa",
+        "image": "https://www.realestate.com.au/blog/images/1024x768-fit,progressive/2019/12/26100125/capi_3ec579742973d0eaf9cd1cfd9f226d70_1e086db99d3da1122a107f825c27d484.jpeg",
+        "description": "East Villa agents are Property consisting of land and the buildings on it, along with its seds naturals resources such seds as crops, minerals, or water tincidunt ipsum posuere.sollicitudin. Duis iaculis, arcu ut hendrerit pharetra, elit augue pulvinar magna..",
+        "price": "5 Million",
+        "Beds": 6,
+        "Baths": 3,
+        "sqft": 650
+    },
+    {
+        "id": 6,
+        "name": "Universal Villa",
+        "image": "https://loveincorporated.blob.core.windows.net/contentimages/gallery/cebc22bc-abc1-45bc-b1f3-22a18bbf18f9-americas-most-expensive-homes-palm-beach-exterior.jpg",
+        "description": "East Villa agents are Property consisting of land and the buildings on it, along with its seds naturals resources such seds as crops, minerals, or water tincidunt ipsum posuere.sollicitudin. Duis iaculis, arcu ut hendrerit pharetra, elit augue pulvinar magna..",
+        "price": "9 Million",
+        "Beds": 10,
+        "Baths": 6,
+        "sqft": 750
+    },
+    {
+        "id": 7,
+        "name": "Browny Villa",
+        "image": "https://filmdaily.co/wp-content/uploads/2020/09/fancyhomes-lede-1300x731.jpg",
+        "description": "East Villa agents are Property consisting of land and the buildings on it, along with its seds naturals resources such seds as crops, minerals, or water tincidunt ipsum posuere.sollicitudin. Duis iaculis, arcu ut hendrerit pharetra, elit augue pulvinar magna..",
+        "price": "8 Million",
+        "Beds": 12,
+        "Baths": 6,
+        "sqft": 950
+    },
+    {
+        "id": 8,
+        "name": "Whitish Villa",
+        "image": "https://www.kron4.com/wp-content/uploads/sites/11/2021/05/z-ath2.jpg",
+        "description": "East Villa agents are Property consisting of land and the buildings on it, along with its seds naturals resources such seds as crops, minerals, or water tincidunt ipsum posuere.sollicitudin. Duis iaculis, arcu ut hendrerit pharetra, elit augue pulvinar magna..",
+        "price": "14 Million",
+        "Beds": 8,
+        "Baths": 3,
+        "sqft": 1050
+    },
+    {
+        "id": 9,
+        "name": "Light Villa",
+        "image": "https://wealthresult.com/wp-content/uploads/2013/07/Wealthy_Peoples_Homes.jpg",
+        "description": "East Villa agents are Property consisting of land and the buildings on it, along with its seds naturals resources such seds as crops, minerals, or water tincidunt ipsum posuere.sollicitudin. Duis iaculis, arcu ut hendrerit pharetra, elit augue pulvinar magna..",
+        "price": "15 Million",
+        "Beds": 8,
+        "Baths": 3,
+        "sqft": 1350
+    },
+    {
+        "id": 10,
+        "name": "Heaven Villa",
+        "image": "https://cdn.jhmrad.com/wp-content/uploads/have-made-wonderful-collection-fabulous-mansion-houses_158637.jpg",
+        "description": "East Villa agents are Property consisting of land and the buildings on it, along with its seds naturals resources such seds as crops, minerals, or water tincidunt ipsum posuere.sollicitudin. Duis iaculis, arcu ut hendrerit pharetra, elit augue pulvinar magna..",
+        "price": "12 Million",
+        "Beds": 10,
+        "Baths": 5,
+        "sqft": 1550
+    }
+]
