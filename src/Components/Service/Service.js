@@ -13,7 +13,7 @@ const Service = (props) => {
                         <p className="card-text"> {description}</p>
 
                         <Link to={`/buynow/${id}`}>
-                            <button className="btn btn-dark border-0" style={{ background: `linear-gradient(to right, #b993d6, #8ca6db)` }}  ><img src="" alt="" width="25" />
+                            <button className="btn btn-dark border-0" style={{ background: `linear-gradient(to right, #00d2ff, #3a7bd5)` }}  ><img src="" alt="" width="25" />
                                 Read more</button>
                         </Link>
 

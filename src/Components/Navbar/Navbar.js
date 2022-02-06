@@ -1,8 +1,11 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import './Navbar.css'
-const Navbar = () => {
+import useAuth from '../../hooks/useAuth';
 
+import './Navbar.css';
+
+const Navbar = () => {
+    const { user, logOut } = useAuth();
     return (
         <div>
             <nav className="navbar navbar-expand-sm navbar-dark navbar-custom">
@@ -17,6 +20,30 @@ const Navbar = () => {
                                 <NavLink to="/home" className="nav-link text-white">Home</NavLink>
                             </li>
 
+                            <li className="nav-item">
+                                <span className="nav-link text-white">{user.email && <li className="nav-item">
+                                    <p>{user.displayName}</p>
+                                </li>}</span>
+                            </li>
+                            <li className="nav-item">
+                                <span className="nav-link text-white">{user.email && <li className="nav-item">
+                                    <img className='user' src={user.photoURL} alt="" />
+                                </li>}</span>
+                            </li>
+                            <li className="nav-item">
+                                <li className="nav-link text-white">{
+                                    user.email ? <li>
+                                        <li className="nav-item">
+                                            <button onClick={logOut} type="button" className="btn btn-sm btn-light">Logout</button>
+                                        </li>
+                                    </li>
+                                        :
+                                        <NavLink to="/register" className="nav-item">
+                                            <button type="button" className="btn btn-sm btn-light">Login</button>
+                                        </NavLink>
+
+                                }</li>
+                            </li>
 
                         </ul>
                     </div>
